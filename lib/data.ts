@@ -42,7 +42,6 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "December 2022 - November 2023",
   },
-  ,
   {
     title:
       "Udemy Course: The Ultimate React Course 2024: React, Next.js, Redux & More",
