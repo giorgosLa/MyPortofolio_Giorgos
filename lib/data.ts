@@ -64,6 +64,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    url: "https://mern-authapp-tpbf.onrender.com/",
     title: "AuthApp",
     description:
       "Created a safe and feature-rich authentication application that allows users to sign up, log in, and manage their accounts while utilizing strong security measures. ",
@@ -80,6 +81,7 @@ export const projectsData = [
     imageUrl: authApp,
   },
   {
+    url: "https://ecommerce-app-t60p.onrender.com/",
     title: "E-commerce",
     description:
       " Included safe, real-time payment integration and classified product displays into a contemporary e-commerce website.",
