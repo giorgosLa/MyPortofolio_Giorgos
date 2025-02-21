@@ -35,30 +35,20 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "IT Support - XALKIADAKIS A.E",
-    location: "Heraklion of Crete",
+    title: "Full stack developer – Emplifi ",
+    location: "Prague, Czechia",
     description:
-      "I worked as an IT support in a big company. Diagnoses and resolves hardware, software, and network issues to assist users with their technical needs. ",
+      "Build new components or update existing ones. Ensure components are reusable and maintainable by following best practices like hooks and Context API. Debug issues in the UI, including styling, state management, or API integration. Write unit tests for React components using tools like React Testing Library. ",
     icon: React.createElement(CgWorkAlt),
-    date: "December 2022 - November 2023",
+    date: "August 2024 - Present",
   },
   {
-    title:
-      "Udemy Course: The Ultimate React Course 2024: React, Next.js, Redux & More",
-    location: "Miami, FL",
+    title: "React Developer - Intellectica ",
+    location: "Athens, Attiki, Greece",
     description:
-      "I completed the course after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "May 2022 - October 2022",
-  },
-
-  {
-    title: "Freelance Full Stack Developer | Karpadu.com",
-    location: "Heraklion of Crete",
-    description:
-      "Designed and developed web applications for clients, built and optimized scalable backend services using React, Express.js, MySQL.",
-    icon: React.createElement(FaReact),
-    date: "February 2024 - present",
+      "Writing clean, reusable, and efficient React components. Used understanding of React fundamentals to promote better component lifecycle practices. Added hooks in the project and moved class-based components to functional components. Helped the implementation of payment processors for online ordering. Optimized React applications for performance, addressing bottlenecks and improving rendering speed.",
+    icon: React.createElement(CgWorkAlt),
+    date: "May 2023 - Jul 2024",
   },
 ] as const;
 
