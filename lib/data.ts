@@ -35,20 +35,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Full stack developer – Emplifi ",
-    location: "Prague, Czechia",
+    title: "Full stack developer – Freelance ",
+    location: " ",
     description:
-      "Build new components or update existing ones. Ensure components are reusable and maintainable by following best practices like hooks and Context API. Debug issues in the UI, including styling, state management, or API integration. Write unit tests for React components using tools like React Testing Library. ",
+      "Build new components or update existing ones. Ensure components are reusable and maintainable by following best practices like hooks. Debug issues in the UI, including styling, state management, or API integration. ",
     icon: React.createElement(CgWorkAlt),
     date: "August 2024 - Present",
-  },
-  {
-    title: "React Developer - Intellectica ",
-    location: "Athens, Attiki, Greece",
-    description:
-      "Writing clean, reusable, and efficient React components. Used understanding of React fundamentals to promote better component lifecycle practices. Added hooks in the project and moved class-based components to functional components. Helped the implementation of payment processors for online ordering. Optimized React applications for performance, addressing bottlenecks and improving rendering speed.",
-    icon: React.createElement(CgWorkAlt),
-    date: "May 2023 - Jul 2024",
   },
 ] as const;
 
